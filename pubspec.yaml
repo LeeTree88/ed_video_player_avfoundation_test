@@ -24,7 +24,7 @@ dependencies:
 #    path: ../video_test_local/ed_video_player_platform_interface_test_local
     git:
       url: https://github.com/LeeTree88/ed_video_player_platform_interface_test.git
-      ref: "47f8974"
+      ref: "eb64abf"
 
 dev_dependencies:
   flutter_test:
